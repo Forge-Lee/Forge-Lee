@@ -39,6 +39,6 @@ ReAct-style LLM agent for economic dispatch with domain tools, optimization back
 
 ## Links
 - Resume: [PDF](./Yutao_Li_2027_Resume_general_1.pdf)
-- LinkedIn: [...](https://www.linkedin.com/in/yutao-li-forge1813/)
-- Google Scholar: [...](https://scholar.google.com/citations?hl=en&user=koWNqn4AAAAJ)
-- Email: [...](yul389@ucsd.edu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yutao-li-forge1813/)
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?hl=en&user=koWNqn4AAAAJ)
+- Email: [yul389@ucsd.edu](yul389@ucsd.edu)
